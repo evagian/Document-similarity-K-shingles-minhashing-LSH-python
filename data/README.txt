@@ -1,3 +1,6 @@
+The dataset used for this project can be found here
+https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection
+and it should be extracted in this (data) directory 
 
           Reuters-21578 text categorization test collection
                         Distribution 1.0
