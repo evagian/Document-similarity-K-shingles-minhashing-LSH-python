@@ -46,3 +46,32 @@ therefore has only 21578 documents.
 The dataset can be found here 
 https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection
 and should be extracted in the /data directory
+
+K shingles input
+![alt text](https://github.com/evagian/Document-similarity-K-shingles-minhashing-LSH-python/blob/master/data/doc/kshingles.jpg)
+
+3 shingles output
+![alt text](https://github.com/evagian/Document-similarity-K-shingles-minhashing-LSH-python/blob/master/data/doc/shingles.PNG)
+
+Minhashing input
+![alt text](https://github.com/evagian/Document-similarity-K-shingles-minhashing-LSH-python/blob/master/data/doc/hashfunctions.jpg)
+
+Minhashing output
+![alt text](https://github.com/evagian/Document-similarity-K-shingles-minhashing-LSH-python/blob/master/data/doc/minhashing.jpg)
+
+LSH input
+![alt text](https://github.com/evagian/Document-similarity-K-shingles-minhashing-LSH-python/blob/master/data/doc/lsh.jpg)
+
+Shingle similarity 
+![alt text](https://github.com/evagian/Document-similarity-K-shingles-minhashing-LSH-python/blob/master/data/doc/jaccard%20sim.jpg)
+
+Signature similarity 
+![alt text](https://github.com/evagian/Document-similarity-K-shingles-minhashing-LSH-python/blob/master/data/doc/shingle%20sim.jpg)
+
+LSH similarity
+![alt text](https://github.com/evagian/Document-similarity-K-shingles-minhashing-LSH-python/blob/master/data/doc/lsh%20sim.jpg)
+
+Time consumption
+![alt text](https://github.com/evagian/Document-similarity-K-shingles-minhashing-LSH-python/blob/master/data/doc/time.png)
+
+
