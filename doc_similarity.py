@@ -570,14 +570,6 @@ print "\nCalculating Jaccard Similarity of Signatures took %.2fsec" % elapsed
 # if we make an index then the complexity is D(ND)/sqrt(ND) -> O(sqrt(N))
 # brute force DN -> O(N)
 
-# print signatures
-
-# lsh
-# https://github.com/embr/lsh/tree/master/lsh
-# https://github.com/go2starr/lshhdc/blob/master/lsh/lsh.py
-# https://github.com/rahularora/MinHash/blob/master/minhash.py
-
-# https://nickgrattan.wordpress.com/2014/03/03/lsh-for-finding-similar-documents-from-a-large-number-of-documents-in-c/
 
 # =============================================================================
 #                                   LSH
